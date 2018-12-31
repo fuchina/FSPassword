@@ -1,0 +1,7 @@
+platform:ios,'8.2'
+
+target 'FSPasswordSample' do
+
+  pod 'FSPassword', :path => '../'
+
+end
