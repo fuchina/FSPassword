@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/classes/FSAddPwdBookController.h
+../../../../../FSPassword/classes/FSAddPwdBookController.h

@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/classes/FSRestartAppController.h
+../../../../../FSPassword/classes/FSRestartAppController.h

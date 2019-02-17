@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/classes/FSMakePasswordController.h
+../../../../../FSPassword/classes/FSMakePasswordController.h

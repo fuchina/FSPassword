@@ -1,0 +1,1 @@
+../../../FSJZBus/FSJZBus/classes/FSGoodsModel.h

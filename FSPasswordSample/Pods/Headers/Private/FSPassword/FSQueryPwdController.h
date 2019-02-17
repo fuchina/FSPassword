@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/oldPwdSystem/FSQueryPwdController.h
+../../../../../FSPassword/classes/FSQueryPwdController.h

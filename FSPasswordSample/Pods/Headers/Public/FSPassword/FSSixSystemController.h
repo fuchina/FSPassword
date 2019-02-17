@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/oldPwdSystem/FSSixSystemController.h
+../../../../../FSPassword/classes/FSSixSystemController.h

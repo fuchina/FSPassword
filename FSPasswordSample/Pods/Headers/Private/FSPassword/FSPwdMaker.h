@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/classes/FSPwdMaker.h
+../../../../../FSPassword/classes/FSPwdMaker.h

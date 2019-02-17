@@ -1,1 +1,1 @@
-../../../../../FSPassword/classes/classes/FSPasswordCell.h
+../../../../../FSPassword/classes/FSPasswordCell.h
