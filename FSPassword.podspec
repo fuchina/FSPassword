@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FSPassword'
-  s.version          = '1.2'
+  s.version          = '1.3'
   s.summary          = 'FSPassword is a tool for show logs when app run'
   s.description      = <<-DESC
 		This is a very small software library, offering a few methods to help with programming.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'FSPassword/classes/*.{h}'
   s.ios.vendored_libraries = 'FSPassword/libs/libFSPassword.a'
-  s.ios.deployment_target = '8.2'
+  s.ios.deployment_target = '9.0'
   
   s.dependency   'FSJZBus'
 
