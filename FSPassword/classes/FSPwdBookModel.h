@@ -21,6 +21,4 @@
 @property (nonatomic,copy) NSString     *note;
 @property (nonatomic,copy) NSString     *zone;
 
-+ (NSArray<NSString *> *)tableFields;
-
 @end

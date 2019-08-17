@@ -15,4 +15,8 @@
 
 @property (nonatomic,copy) NSString     *password;
 
+// 搜索模式
+@property (nonatomic,assign) BOOL       isSearchMode;
+@property (nonatomic,strong) NSArray    *searchResults;
+
 @end
